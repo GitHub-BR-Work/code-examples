@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Web Interface Documentation
+
+This web interface has the following features:
+- Blue background
+- Header that says "Hello World!"
+- Input field for the user to enter their name
+
+### Blue Background
+
+The background color of the web interface is set to blue. This is achieved by modifying the `nodejs/axios/reactapp/src/App.css` file.
+
+### Header
+
+The header of the web interface displays the text "Hello World!". This is achieved by modifying the `nodejs/axios/reactapp/src/App.js` file.
+
+### Input Field
+
+An input field is provided for the user to enter their name. This is achieved by modifying the `nodejs/axios/reactapp/src/App.js` file.
